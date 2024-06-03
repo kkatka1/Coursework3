@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "date": "2022-05-10T10:00:00.000",
+    "state": "EXECUTED",
+    "operationAmount": {"amount": 100, "currency": {"name": "USD"}},
+    "description": "Test transfer",
+    "from": "Счет 123456",
+    "to": "Счет 789012"
+  }
+]
